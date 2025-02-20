@@ -1,3 +1,33 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+  }
+  h1, h2 {
+    color: #444;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  ul li {
+    background: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  ul li a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  ul li a:hover {
+    text-decoration: underline;
+  }
+</style>
 # 100DaysOfCode-Python
 
 ## 📚 Table of Contents
@@ -91,4 +121,3 @@
 
 ---
 
-This **README.md** is well-structured and provides easy navigation throughout your journey of **100 Days of Code: Python**. If you need adjustments or more sections, let me know!
